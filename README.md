@@ -44,3 +44,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Tesla Clone
+
+[Link](https://tesla-clone-3.web.app/)
+
+## Technologies Used
+
+1. React JS
+2. Redux
+3. FireBase
+4. Styled-Components
