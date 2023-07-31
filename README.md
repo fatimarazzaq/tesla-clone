@@ -47,7 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Tesla Clone
 
-[Link](https://tesla-clone-3.web.app/)
+[Project Link](https://tesla-clone-3.web.app/)
 
 ## Technologies Used
 
